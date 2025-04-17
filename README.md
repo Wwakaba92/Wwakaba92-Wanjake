@@ -2,7 +2,7 @@
 
 🎯 Backend Dev in training | 🌍 Tech Explorer | 💡 Lifelong Learner
 
-Welcome to my little corner of the internet! I'm currently diving deep into **backend development** at ALX and building cool stuff like a **Parking Booking Admin Dashboard** using `HTML`, `CSS`, `JavaScript`, `PHP`, and `MySQL`.
+Welcome to my little corner of the internet! I'm currently diving deep into backend development at ALX and building cool stuff like a Parking Booking Admin Dashboard using HTML, CSS, JavaScript, PHP, and MySQL.
 
 ---
 
@@ -38,6 +38,7 @@ Welcome to my little corner of the internet! I'm currently diving deep into **ba
 📞 **Phone:** +254 794 945137  
 💼 **LinkedIn:** *Coming soon... 👀*  
 🛠 **Portfolio:** *Work in progress... stay tuned!*
+Watch out for my other GitHub profile@ https://github.com/WanjakeKibe/WanjakeKibe
 
 ---
 
